@@ -1,5 +1,13 @@
+import Body from "./components/Body";
+import Navbar from "./components/Navbar";
+
 function App() {
-  return <div className="w-full h-screen bg-red-500">xd</div>;
+  return (
+    <div className="h-screen w-full bg-body-dark flex flex-col">
+      <Navbar />
+      <Body />
+    </div>
+  );
 }
 
 export default App;
