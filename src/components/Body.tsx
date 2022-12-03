@@ -5,7 +5,7 @@ function Body() {
 
         <div className="flex-grow flex flex-row z-20">
 
-            <div className="px-40 flex-grow">
+            <div className="px-64 flex-grow">
 
                 <div className="w-full h-full flex flex-col items-start justify-center gap-y-8">
 
@@ -24,7 +24,7 @@ function Body() {
 
                     <p className="font-poppins font-semibold text-white text-7xl">Payment Method.</p>
 
-                    <p className="text-white/70 font-poppins text-lg w-[55%]">Our team of experts uses a methodology to identify the credit cards most likely to fit your needs.
+                    <p className="text-white/70 font-poppins text-lg w-3/4">Our team of experts uses a methodology to identify the credit cards most likely to fit your needs.
                         We examine annual percentage rates, annual fees.</p>
 
                 </div>

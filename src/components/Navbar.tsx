@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <div className="pt-8 px-40 flex flex-row justify-between">
+        <div className="pt-8 px-64 flex flex-row justify-between">
 
             {/* Name & Logo */}
             <div className="flex flex-row gap-x-1 items-center font-poppins">
