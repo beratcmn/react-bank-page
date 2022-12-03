@@ -35,13 +35,13 @@ function Features() {
                     <img className="w-full h-full" src="../../public/art2.svg" alt="" />
                 </div>
 
-                <div className="flex flex-col w-1/2 gap-y-10">
+                <div className="flex flex-col w-1/3 gap-y-10">
 
                     <h2 className="font-poppins text-white font-semibold text-5xl leading-normal">
                         Easily control your <br /> billing & invoicing.
                     </h2>
 
-                    <p className="font-poppins w-5/6 text-white/70  leading-normal">
+                    <p className="font-poppins  text-white/70  leading-normal">
                         Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
                     </p>
 
